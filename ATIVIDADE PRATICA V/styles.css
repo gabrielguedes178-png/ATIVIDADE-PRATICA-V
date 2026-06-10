@@ -1,0 +1,29 @@
+body{
+    background: #3a94ee;
+}
+
+h1{
+    text-align:center;
+}
+
+.perfil{
+    display:flex;
+    align-items:center;
+    gap:15px;
+    margin-bottom:15px;
+}
+
+.perfil img{
+    width:70px;
+    height:80px;
+    border-radius:50%;
+    object-fit:cover;
+}
+
+textarea{
+    resize:none;
+}
+
+article{
+    margin-top:20px;
+}
